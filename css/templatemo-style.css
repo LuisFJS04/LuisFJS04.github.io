@@ -224,6 +224,7 @@ ul {
 /* Welcome */
 .tm-welcome-section {
   /*background: #0ce0f046;*/
+  /*background-image: url("../img/sky.jpeg");*/
   background-image: url("../img/bg-home-1280x640.png");
   /*background-image: url(../img/tm-brown-button.png);*/
   text-align: center;
@@ -240,8 +241,8 @@ ul {
   text-transform: uppercase;
 }
 .tm-welcome-content {
-  margin: 150px auto 350px;
-  max-width: 650px;
+  margin: 150px auto 150px;
+  max-width: 640px;
 }
 .tm-welcome-description { text-align: justify; }
 .tm-welcome-img-container { text-align: right; }
